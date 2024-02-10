@@ -10,7 +10,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class BarcbecueBarcodeWriterTest {
     private static String getFilename() {
-        SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyMMddHHmmss");
+        SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyMMddHHmmssS");
         return simpleDateFormat.format(new Date());
     }
 
