@@ -1,4 +1,4 @@
 #CONCEPT LEARNED
 
 #LIBRARY LEARNED
-1. [ ] Barcode & QRCode
+1. [x] Barcode & QRCode

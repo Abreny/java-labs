@@ -13,8 +13,11 @@
 [QRGen](https://github.com/kenglxn/QRGen) library offers a simple QRCode generation API built on top of ZXing. It provides separate modules for Java and Android.
 
 # EXAMPLE OF USAGE
-1. [ ] UPC (universal product code)
-2. [ ] EAN (european article number, variation: EAN-13, EAN-8, JAN-13 and ISN)
-3. [ ] Code 128 (It can encode all 128 characters of ASCII, and its length is variable)
-4. [ ] PDF417 (We might expect to find it on a variety of applications such as travel (boarding passes), identification cards, and inventory management)
-5. [ ] QRCode
+1. [x] UPC (universal product code)
+2. [x] EAN (european article number, variation: EAN-13, EAN-8, JAN-13 and ISN)
+3. [x] Code 128 (It can encode all 128 characters of ASCII, and its length is variable)
+4. [x] PDF417 (We might expect to find it on a variety of applications such as travel (boarding passes), identification cards, and inventory management)
+5. [x] QRCode
+
+# CONCLUSION
+ZXing is the best library. It supports most format and 2D code format (qr code).
