@@ -29,5 +29,6 @@
 
     <modules>
         <module>barcode-qrcode</module>
+        <module>concurrent-api</module>
     </modules>
 </project>
